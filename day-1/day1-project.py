@@ -1,4 +1,4 @@
-## Day 1 - String Manipulation
+## Day 1 - Working with Variables
 ## 29.05.2023
 ## ----
 ## DAY 1 PROJECT
