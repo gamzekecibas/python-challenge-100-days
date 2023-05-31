@@ -3,7 +3,7 @@
 ## ----
 ## DAY 3 PROJECT Treasure Island
 ## ----
-## ASCII Art can be updated from:
+## ASCII Art can be updated from: https://ascii.co.uk/art
 print('''
 *******************************************************************************
           |                   |                  |                     |
