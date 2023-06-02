@@ -16,3 +16,7 @@
 * **Day 4 - Randomisation & Python Lists**
   * [Exercises](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-4/day4-exercises.py)
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-4/day4-project.py): Rock Paper Scissors 
+
+* **Day 5 - Beginner | Python Loops**
+  * [Exercises](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-5/day5-exercises.py)
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-5/day5-project.py): Password Generator 
