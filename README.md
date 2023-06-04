@@ -20,3 +20,10 @@
 * **Day 5 - Beginner | Python Loops**
   * [Exercises](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-5/day5-exercises.py)
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-5/day5-project.py): Password Generator 
+
+* **Day 6 - Beginner | Python Functions with Karel**
+  * [Exercises](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-6/day6-exercises.py)
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-6/day6-project.py): Escaping from the Maze with Karel 
+
+* **Day 7 - Beginner | Hangman**
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-7)
