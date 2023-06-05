@@ -27,3 +27,9 @@
 
 * **Day 7 - Beginner | Hangman**
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-7)
+
+* **Day 8 - Beginner | Function Parameters**
+  * [Exercise](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-8/day8-exercises.py)
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-8/day8-project.py): Caesar Cipher
+   - [Project Practice](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-8/day8-project-practice.py)
+   - [Project Utils](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-8/day8ProjectUtils.py)
