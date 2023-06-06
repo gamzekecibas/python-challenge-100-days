@@ -33,3 +33,8 @@
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-8/day8-project.py): Caesar Cipher
    - [Project Practice](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-8/day8-project-practice.py)
    - [Project Utils](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-8/day8ProjectUtils.py)
+
+* **Day 9 - Beginner | Dictionaries & Nesting**
+  * [Exercises](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-9/day9-exercises.py)
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-9/day9-project.py): Secret Auction Program
+   - [Project Utils](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-9/day9Utils.py) 
