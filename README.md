@@ -38,3 +38,10 @@
   * [Exercises](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-9/day9-exercises.py)
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-9/day9-project.py): Secret Auction Program
    - [Project Utils](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-9/day9Utils.py) 
+
+* **Day 10 - Beginner | Functions with Outputs**
+  * [Exercises](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-10/day10-exercises.py)
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-10/day10-project.py): The Calculator 
+
+* **Day 11 - Beginner Capstone | Blackjack**
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-11/main.py)
