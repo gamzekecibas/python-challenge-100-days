@@ -45,3 +45,6 @@
 
 * **Day 11 - Beginner Capstone | Blackjack**
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-011/main.py)
+
+* **Day 12 - Beginner | Scope & Number Guessing Game**
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-012/main.py)
