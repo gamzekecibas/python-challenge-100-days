@@ -5,7 +5,6 @@
 ## Step 0 : Drawing Flow Chart for Hangman
 
 import random
-from hangman_words import course_word_list
 from hangman_art import logo, stages
 print(logo)
 
@@ -13,6 +12,23 @@ end_of_game = False
 lives = len(stages)
 
 selected_word = []
+lang_select = input('Please enter your language preference (TR/ENG): ')
+
+if lang_select.lower() == 'eng':
+    from hangman_words import course_word_list
+if lang_select.lower() == 'tr':
+    # Open the file in read mode
+    with open("turkce_kelime_listesi.txt", 'r') as file:
+        # Read the contents of the file
+        lines = file.readlines()
+    # Remove the trailing newline character and extra spaces from each line
+    lines = [line.rstrip('\n').strip() for line in lines]
+
+    course_word_list = lines
+
+    # Remove the trailing newline character from each line
+    lines = [line.rstrip('\n') for line in lines]
+
 rand_word = random.choice(course_word_list).lower()
 
 rand_word_len = len(rand_word)    ### For Step 2
