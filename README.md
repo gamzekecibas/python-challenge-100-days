@@ -48,3 +48,10 @@
 
 * **Day 12 - Beginner | Scope & Number Guessing Game**
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-012/main.py)
+
+* **Day 13 - Debugging**
+  * [Exercises](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-013/main.py)
+
+* **Day 14 - Beginner | Capstone Project**
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-014/main.py): The Higher Lower Game
+   - [Project Utils](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-014/day14Utils.py) 
