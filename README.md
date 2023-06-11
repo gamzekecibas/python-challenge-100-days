@@ -55,3 +55,6 @@
 * **Day 14 - Beginner | Capstone Project**
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-014/main.py): The Higher Lower Game
    - [Project Utils](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-014/day14Utils.py) 
+
+* **Day 15 - Intermediate | Coffee Machine Project**
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-015): Coffee Machine Project 
