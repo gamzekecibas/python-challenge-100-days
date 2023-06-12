@@ -58,3 +58,7 @@
 
 * **Day 15 - Intermediate | Coffee Machine Project**
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-015): Coffee Machine Project 
+
+* **Day 16 - Intermediate | Coffee Machine Project through OOP**
+  * [Exercise](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-016/main.py)
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-016/oop-coffee-machine-start): Coffee Machine Project through OOP 
