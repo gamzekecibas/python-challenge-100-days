@@ -62,3 +62,7 @@
 * **Day 16 - Intermediate | Coffee Machine Project through OOP**
   * [Exercise](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-016/main.py)
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-016/oop-coffee-machine-start): Coffee Machine Project through OOP 
+
+* **Day 17 - Intermediate | Benefits of OOP**
+  * [Exercise](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-017/main.py)
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-017/quiz-game-start): Trivia Quiz Game
