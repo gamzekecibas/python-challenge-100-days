@@ -66,3 +66,7 @@
 * **Day 17 - Intermediate | Benefits of OOP**
   * [Exercise](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-017/main.py)
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-017/quiz-game-start): Trivia Quiz Game
+
+* **Day 18 - Intermediate | Turtle & GUI**
+  * [Exercise](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-018/main.py)
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-018/hirst-painting-start): Hirst Painting
