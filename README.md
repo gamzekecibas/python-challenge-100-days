@@ -31,13 +31,13 @@
 * **Day 8 - Beginner | Function Parameters**
   * [Exercise](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-008/day8-exercises.py)
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-008/day8-project.py): Caesar Cipher
-   - [Project Practice](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-008/day8-project-practice.py)
-   - [Project Utils](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-008/day8ProjectUtils.py)
+    - [Project Practice](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-008/day8-project-practice.py)
+    - [Project Utils](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-008/day8ProjectUtils.py)
 
 * **Day 9 - Beginner | Dictionaries & Nesting**
   * [Exercises](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-009/day9-exercises.py)
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-009/day9-project.py): Secret Auction Program
-   - [Project Utils](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-009/day9Utils.py) 
+    - [Project Utils](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-009/day9Utils.py) 
 
 * **Day 10 - Beginner | Functions with Outputs**
   * [Exercises](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-010/day10-exercises.py)
@@ -54,7 +54,7 @@
 
 * **Day 14 - Beginner | Capstone Project**
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-014/main.py): The Higher Lower Game
-   - [Project Utils](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-014/day14Utils.py) 
+    - [Project Utils](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-014/day14Utils.py) 
 
 * **Day 15 - Intermediate | Coffee Machine Project**
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-015): Coffee Machine Project 
@@ -74,3 +74,11 @@
 * **Day 19 - Intermediate | High Order Functions**
   * [Exercise](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-019/day019-practices.py)
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-019/day019-project.py): Turtle Race
+ 
+* **Day 20 & 21 - Intermediate | Snake Game Project**
+  * [Exercise](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021/day021-practice.py)
+    *About class inheritance*
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021/main.py): Snake Game
+    - [snake class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021/snake.py)
+    - [food class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021/food.py)
+    - [scoreboard class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021/scoreboard.py)
