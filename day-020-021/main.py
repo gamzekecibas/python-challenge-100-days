@@ -34,6 +34,22 @@ while game_is_on:
     ## Detect collusion with food
     if snake.snake_head.distance(food) < 15:
         food.refresh()
+        snake.extend_snake()
+        scoreboard.increase_score()
+
+    ## Detect collusion with wall
+    if (snake.snake_head.xcor() > 280 or snake.snake_head.xcor() < -280 or snake.snake_head.ycor() > 280 or snake.snake_head.ycor() < -280):
+        game_is_on = False
+        scoreboard.game_over()
+
+    ## Detect collision with tail
+    ## if head collides with any segment in the tail
+    ## trigger game over
+    for part in snake.snake_body[3:]:
+        if snake.snake_head.distance(part) < 10:
+            game_is_on = False
+            scoreboard.game_over()
+
 
 ##  for part in snake_body:
 ##      part.forward(20)
