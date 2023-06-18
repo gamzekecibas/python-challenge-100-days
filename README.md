@@ -79,6 +79,14 @@
   * [Exercise](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021/day021-practice.py)
     *About class inheritance*
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021/main.py): Snake Game
-    - [snake class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021/snake.py)
-    - [food class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021/food.py)
-    - [scoreboard class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021/scoreboard.py)
+    - [Snake class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021/snake.py)
+    - [Food class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021/food.py)
+    - [Scoreboard class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021/scoreboard.py)
+
+* **Day 22 - Intermediate | Pong Game Project**
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-022/main.py): Pong Game
+    - [Ball class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-022/ball.py)
+    - [Paddle class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-022/paddle.py)
+    - [Scoreboard class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-022/scoreboard.py)
+
+    
