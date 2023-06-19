@@ -38,7 +38,7 @@ while game_is_on:
         scoreboard.increase_score()
 
     ## Detect collusion with wall
-    if (snake.snake_head.xcor() > 280 or snake.snake_head.xcor() < -280 or snake.snake_head.ycor() > 280 or snake.snake_head.ycor() < -280):
+    if (snake.snake_head.xcor() > 290 or snake.snake_head.xcor() < -290 or snake.snake_head.ycor() > 290 or snake.snake_head.ycor() < -290):
         game_is_on = False
         scoreboard.game_over()
 
