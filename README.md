@@ -88,5 +88,11 @@
     - [Ball class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-022/ball.py)
     - [Paddle class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-022/paddle.py)
     - [Scoreboard class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-022/scoreboard.py)
+   
+* **Day 23 - Intermediate | Turtle Crossing Game Project**
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-023/turtle-crossing-start/main.py): Turtle Crossing Game
+    - [Player class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-023/turtle-crossing-start/player.py)
+    - [ManageCars class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-023/turtle-crossing-start/car_manager.py)
+    - [Scoreboard class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-023/turtle-crossing-start/scoreboard.py)
 
     
