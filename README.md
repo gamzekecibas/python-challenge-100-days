@@ -75,13 +75,13 @@
   * [Exercise](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-019/day019-practices.py)
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-019/day019-project.py): Turtle Race
  
-* **Day 20 & 21 - Intermediate | Snake Game Project**
-  * [Exercise](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021/day021-practice.py)
-    *About class inheritance*
-  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021/main.py): Snake Game
-    - [Snake class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021/snake.py)
-    - [Food class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021/food.py)
-    - [Scoreboard class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021/scoreboard.py)
+* **Day 20 & 21 & 24 - Intermediate | Snake Game Project**
+  * [Exercise](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021-024/day021-practice.py)
+    *About class inheritance* & *File read/write practice to keep high score in the game*
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021-024/main.py): Snake Game
+    - [Snake class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021-024/snake.py)
+    - [Food class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021-024/food.py)
+    - [Scoreboard class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-020-021-024/scoreboard.py)
 
 * **Day 22 - Intermediate | Pong Game Project**
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-022/main.py): Pong Game
