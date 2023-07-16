@@ -95,4 +95,10 @@
     - [ManageCars class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-023/turtle-crossing-start/car_manager.py)
     - [Scoreboard class](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-023/turtle-crossing-start/scoreboard.py)
 
+* **Day 25 - Intermediate | Working with csv data & Pandas**
+  * [Practices]:
+    - [reading csv files](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-025/main.py)
+    - [fundamental of pandas with squirrel data](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-025/squirrel-analysis.py)
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-025/us-states-game-start): U.S. States Game
+
     
