@@ -100,5 +100,15 @@
     - [reading csv files](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-025/main.py)
     - [fundamental of pandas with squirrel data](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-025/squirrel-analysis.py)
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-025/us-states-game-start): U.S. States Game
+ 
+* **Day 26 - Intermediate | List Comprehension**
+  * [Exercise](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-026/day026-exercises.py)
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-026/NATO-alphabet-start): NATO Alphabet
+
+* **Day 27 - Intermediate | Default Args&Tkinter**
+  * [Arguments Exercise](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-027/day-027-arguments.py)
+  * [GUI Exercise](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-027/day-027-tkinter.py)
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-027/day-027-project.py): Mile2Km Converter
+
 
     
