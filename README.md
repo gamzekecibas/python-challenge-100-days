@@ -110,5 +110,7 @@
   * [GUI Exercise](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-027/day-027-tkinter.py)
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-027/day-027-project.py): Mile2Km Converter
 
+* **Day 28 - Intermediate | Dynamic Typing & Pomodoro App**
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-028/pomodoro-start): Pomodoro GUI App
 
     
