@@ -113,4 +113,6 @@
 * **Day 28 - Intermediate | Dynamic Typing & Pomodoro App**
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-028/pomodoro-start): Pomodoro GUI App
 
+* **Day 29 - Intermediate | Password Manager App**
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-029/password-manager-start): Password Manager GUI
     
