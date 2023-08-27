@@ -116,3 +116,5 @@
 * **Day 29 - Intermediate | Password Manager App**
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-029/password-manager-start): Password Manager GUI
     
+* **Day 30 - Intermediate | Handling Errors**
+  * [Exercise](https://github.com/gamzekecibas/python-challenge-100-days/blob/main/day-030/main.py): Try-Except-Else-Finally block practices
