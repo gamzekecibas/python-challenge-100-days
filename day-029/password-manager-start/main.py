@@ -3,6 +3,8 @@ from tkinter import messagebox as mb
 from random import choice, randint, shuffle
 import pyperclip
 
+import json
+
 FONT_NAME = "Courier"
 
 
@@ -28,19 +30,53 @@ def password_generator():
 
 # ---------------------------- SAVE PASSWORD ------------------------------- #
 def save():
-    if len(website_user.get()) == 0 or len(generated_password.get()) == 0:
+    website = website_user.get()
+    email = email_user.get()
+    password = generated_password.get()
+    new_data = {
+        website: {
+            "email": email,
+            "password": password,
+        }}
+
+    if len(website) == 0 or len(password) == 0:
         mb.showinfo(title="Oops!", message="Please make sure you haven't left any fields empty!")
     else:
-        is_ok = mb.askokcancel(title=website_user.get(),
-                               message=f"These are the details entered:\nEmail: {email_user.get()}"
-                                       f"\nPassword: {generated_password.get()}\nIs it OK to save?")
-        if is_ok:
-            log_file = open("password_manager_log.txt", "a")
-            log_file.write(f"{website_user.get()} | {email_user.get()} | {generated_password.get()}\n")
-            log_file.close()
-
+        # This approach is useful for just writing
+        # with open("password_manager_log.json", "w") as log_file:
+        #    json.dump(new_data, log_file, indent=4)
+        try:
+            with open("password_manager_log.json", "r") as log_file:
+                # Read previous data
+                data = json.load(log_file)
+        except FileNotFoundError:
+            with open("password_manager_log.json", "w") as log_file:
+                json.dump(new_data, log_file, indent=4)
+        else:
+            # Update the previous data with new one
+            data.update(new_data)
+            ## Write the log json file
+            with open("password_manager_log.json", "w") as log_file:
+                json.dump(data, log_file, indent=4)
+        finally:
             website_user.delete(0, END)
             generated_password.delete(0, END)
+
+# ---------------------------- SEARCH PASSWORD ------------------------------- #
+def search_password():
+    try:
+        with open("password_manager_log.json", "r") as log_file:
+            # Read previous data
+            data = json.load(log_file)
+            website = website_user.get()
+            current_web_dict = data[website]
+    except FileNotFoundError as error_file:
+        mb.showinfo(title="Oops!", message=f"Log file is not found!")
+    except KeyError as error_key:
+        mb.showinfo(title="Oops!", message=f"No details for the {error_key} does not exist!")
+    else:
+        mb.showinfo(title=f"{website}",
+                    message=f"E-mail: {current_web_dict['email']}\nPassword: {current_web_dict['password']}")
 
 
 # ---------------------------- UI SETUP ------------------------------- #
@@ -65,8 +101,8 @@ password_title = Label(text="Password:", font=(FONT_NAME, 12))
 password_title.grid(row=3, column=0)
 
 ## Entry
-website_user = Entry(width=40)
-website_user.grid(row=1, column=1, columnspan=2)
+website_user = Entry(width=23)
+website_user.grid(row=1, column=1)
 website_user.focus()
 
 email_user = Entry(width=40)
@@ -80,6 +116,10 @@ generated_password.grid(row=3, column=1)
 password_button = Button(text="Generate Password",
                          highlightthickness=0, command=password_generator)
 password_button.grid(row=3, column=2)
+search_button = Button(text="Search",
+                         highlightthickness=0, command=search_password, width=12)
+search_button.grid(row=1, column=2)
+
 
 add_button = Button(text="Add", width=38,
                     highlightthickness=0, command=save)
