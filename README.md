@@ -121,3 +121,8 @@
  
 * **Day 31 - Intermediate | Flash Cards Project**
   * [Flashy App](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-031/lang_project): The most frequent 300 characters of Simplified Chinese & English practice app
+ 
+* **Day 32 - Intermediate | SMTP & Datetime Modules**
+  * [Exercise](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-032/Birthday%20Wisher%20(Day%2032)%20start): SMTP & Datetime modules practices. There is also a pre-project called as *Monday Motivation*.  
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-032/birthday-wisher-extrahard-start): Aıuto-Birtday Wisher
+    - There is information about a code [scheduler](https://www.pythonanywhere.com) by Anaconda.  
