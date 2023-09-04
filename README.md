@@ -131,4 +131,7 @@
   * [Exercise](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-033): Using API practices with different servers. There is also a pre-project called as *Kanye Quotes*.  
   * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-033/issoverhead-start): ISS Overhead Notifier
      - *Time* module is used to run the code every 60 seconds in local.
+   
+* **Day 34 - Intermediate+ | Benefits of OOP with API**
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-034/quizzler-app-start): Quizzler App  
        
