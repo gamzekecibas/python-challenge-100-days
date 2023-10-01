@@ -133,5 +133,8 @@
      - *Time* module is used to run the code every 60 seconds in local.
    
 * **Day 34 - Intermediate+ | Benefits of OOP with API**
-  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-034/quizzler-app-start): Quizzler App  
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-034/quizzler-app-start): Quizzler App
+ 
+* **Day 35 - Intermediate+ | Keys, Authentication & Environment Variables: Send SMS**
+  * [Project](https://github.com/gamzekecibas/python-challenge-100-days/tree/main/day-035)
        
