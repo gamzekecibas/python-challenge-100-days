@@ -11,8 +11,8 @@ try:
     lang_data = pd.read_csv("data/words_to_learn.csv")
 except FileNotFoundError:
     lang_data = pd.read_csv("data/chinese_freq_words.csv")
-else:
-    to_learn = lang_data.to_dict(orient="records")
+
+to_learn = lang_data.to_dict(orient="records")
 
 # Functions
 def next_card():
