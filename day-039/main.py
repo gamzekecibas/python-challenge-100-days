@@ -17,11 +17,15 @@ pprint(sheet_data)
 
 
 ## fill empty iataCode column with TESTING text
-for row in sheet_data:
-    if row["iataCode"] == "":
-        row["iataCode"] = "TESTING"
+#for row in sheet_data:
+#    if row["iataCode"] == "":
+#        row["iataCode"] = "TESTING"
 
-pprint(sheet_data)
+# update the iataCode column with the flight_search.get_iata_code()
+for row in sheet_data:
+    row["iataCode"] = flight_search.get_iata_code(row["city"])
+
+#pprint(sheet_data)
 
 ## to write the data to the sheet
 data_manager.destination_data = sheet_data
